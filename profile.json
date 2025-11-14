@@ -1,0 +1,98 @@
+{
+  "name": "Camila Romualdo",
+  "location": "Rio de Janeiro, Rio de Janeiro / BR",
+  "bio": "Full-stack developer passionate about designing scalable, high-performance and web applications.",
+  "role": "Software Engineer",
+  "technologies": {
+    "code": ["Bash", "Batch", "Java", "JavaScript", "PowerShell", "TypeScript"],
+    "frontEnd": {
+      "architecture": ["Microfrontend", "Monolithic", "SPA", "SSR"],
+      "bundlersAndBuild": ["Vite", "Webpack"],
+      "css": [
+        "Bootstrap",
+        "Sass",
+        "Stitches",
+        "Styled Components",
+        "Stylus",
+        "Tailwind"
+      ],
+      "frameworks": ["Angular", "Next.js", "React", "Vue"],
+      "stateManagement": ["NgRx", "Redux"],
+      "testing": ["Cypress", "Jest", "Karma", "Vitest"],
+      "uiCharts": ["D3.js", "Highcharts"],
+      "uiLibraries": [
+        "Angular Material",
+        "Ant Design",
+        "Chakra UI",
+        "Material UI",
+        "PrimeNG",
+        "Semantic UI",
+        "Shadcn/UI"
+      ]
+    },
+    "backEnd": {
+      "architecture": ["Hexagonal", "Layered Architecture", "Microservices", "Monolithic", "Serverless"],
+      "java": {
+        "buildTools": ["Maven", "Gradle"],
+        "frameworks": ["Quarkus"],
+        "libraries": ["Hibernate"],
+        "servers": ["JBoss"],
+        "ui": ["JavaServer Faces (JSF)"]
+      },
+      "javascript": {
+        "runtime": ["Node.js"],
+        "frameworks": ["Express"]
+      },
+      "testing": ["Cucumber", "Selenium"]
+    },
+    "authentication": {
+      "protocols": ["OIDC", "OAuth 2.0"],
+      "providers": ["Keycloak"],
+      "standards": ["SAML 2.0", "OpenID Connect"],
+      "tokens": ["JWT"]
+    },
+    "mobile": {
+      "crossPlatform": ["Capacitor", "Expo", "Ionic"]
+    },
+    "databases": ["Firebase", "MongoDB", "MySQL", "PostgreSQL", "SQLite"],
+    "workflows": ["MonoRepo", "MultiRepo", "PolyRepo"],
+    "testing": [
+      "API Tests",
+      "Component Tests",
+      "E2E (End-to-End)",
+      "Integration Tests",
+      "Unit Tests"
+    ],
+    "toolsAndIDEs": [
+      "DBeaver",
+      "Eclipse",
+      "Figma",
+      "IntelliJ",
+      "Linting",
+      "VS Code",
+      "WebStorm"
+    ],
+    "devOps": {
+      "containersAndInfra": ["Docker", "Nginx", "OKD"],
+      "deliveryAutomation": ["Azure DevOps", "GitLab CI/CD", "GitHub Actions", "SonarQube"],
+      "observability": ["Grafana", "Graylog"]
+    },
+    "operatingSystems": ["Linux", "Windows"],
+    "miscellaneous": [
+      "Accessibility (w/NVDA)",
+      "Design System",
+      "Internationalization (i18n)",
+      "Responsive Design",
+      "REST APIs",
+      "Socket.IO",
+      "Swagger",
+      "WebSockets"
+    ],
+    "agil": ["Kanban", "Scrum"]
+  },
+  "contact": {
+    "email": "camilaromualdo.cr@gmail.com",
+    "github": "https://github.com/camilaromualdo",
+    "linkedin": "https://www.linkedin.com/in/camilaromualdo"
+  }
+}

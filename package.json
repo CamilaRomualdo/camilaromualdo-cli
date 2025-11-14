@@ -1,0 +1,21 @@
+{
+  "name": "camilaromualdo",
+  "version": "1.0.0",
+  "author": "Camila Romualdo <camilaevelynromualdo@gmail.com>",
+  "description": "Interactive CLI that showcases the professional bio and full tech stack of Camila Romualdo.",
+  "keywords": [
+    "cli",
+    "camila",
+    "profile",
+    "developer"
+  ],
+  "main": "index.js",
+  "bin": {
+    "camilaromualdo": "./cli.js"
+  },
+  "files": [
+    "cli.js",
+    "profile.json"
+  ],
+  "license": "ISC"
+}
